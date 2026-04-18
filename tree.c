@@ -14,7 +14,6 @@
 #include <sys/stat.h>
 #include "index.h"
 
-// ─── Mode Constants ─────────────────────────────────────────────────────────
 
 #define MODE_FILE      0100644
 #define MODE_EXEC      0100755
