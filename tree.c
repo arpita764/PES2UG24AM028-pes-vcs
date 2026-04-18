@@ -3,7 +3,6 @@
 // TODO functions:     tree_from_index
 // Binary tree format (per entry, concatenated with no separators):
 //   "<mode-as-ascii-octal> <name>\0<32-byte-binary-hash>"
-//
 // Example single entry (conceptual):
 //   "100644 hello.txt\0" followed by 32 raw bytes of SHA-256
 
